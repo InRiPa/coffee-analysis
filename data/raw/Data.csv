@@ -1,232 +1,1099 @@
-Date;Type
-03/21/2016 09:23:00;Jacobs Classic
-03/21/2016 12:32:00;Jacobs Classic
-03/23/2016 09:36:00;Jacobs Classic
-03/30/2016 08:50:00;Jacobs Classic
-03/30/2016 10:30:00;Jacobs Classic
-03/30/2016 13:20:01;Jacobs Classic
-03/30/2016 16:02:02;Jacobs Classic
-04/01/2016 09:02:00;Jacobs Classic
-04/01/2016 10:50:01;Jacobs Classic
-04/01/2016 12:40:00;Jacobs Classic
-04/01/2016 14:50:00;Jacobs Classic
-04/04/2016 09:18:01;Jacobs Classic
-04/04/2016 10:45:55;Jacobs Classic
-04/05/2016 14:48:00;Jacobs Classic
-04/06/2016 09:16:12;Jacobs Classic
-04/06/2016 10:14:30;Jacobs Classic
-04/06/2016 13:05:20;Jacobs Classic
-04/06/2016 15:48:33;Jacobs Classic
-04/07/2016 09:15:28;Jacobs Classic
-04/07/2016 10:28:54;Jacobs Classic
-04/07/2016 13:28:54;Jacobs Classic
-04/08/2016 08:38:06;Jacobs Classic
-04/08/2016 09:44:28;Jacobs Classic
-04/08/2016 16:30:11;Jacobs Classic
-04/11/2016 09:35:22;Jacobs Classic
-04/11/2016 15:59:00;Jacobs Classic
-04/13/2016 10:01:01;Jacobs Classic
-04/13/2016 13:02:55;Jacobs Classic
-04/14/2016 09:49:12;Jacobs Classic
-04/14/2016 14:08:28;Jacobs Classic
-04/14/2016 18:07:06;Jacobs Classic
-04/15/2016 09:15:10;Jacobs Classic
-04/15/2016 10:39:00;Jacobs Classic
-04/15/2016 17:15:00;Jacobs Classic
-04/18/2016 10:19:56;Jacobs Classic
-04/18/2016 13:09:52;Jacobs Classic
-04/20/2016 09:12:35;Jacobs Classic
-04/20/2016 12:41:36;Jacobs Classic
-04/21/2016 09:32:31;Jacobs Classic
-04/21/2016 12:35:12;Jacobs Classic
-04/22/2016 10:04:30;Jacobs Classic
-04/22/2016 11:11:22;Jacobs Classic
-04/25/2016 09:19:23;Jacobs Classic
-04/25/2016 12:45:36;Jacobs Classic
-04/27/2016 09:22:45;Jacobs Classic
-04/27/2016 11:12:20;Jacobs Classic
-04/27/2016 17:15:15;Jacobs Classic
-04/28/2016 09:45:56;Jacobs Classic
-04/28/2016 10:40:10;Jacobs Classic
-04/28/2016 15:16:15;Jacobs Classic
-04/29/2016 09:21:40;Jacobs Classic
-04/29/2016 10:02:38;Jacobs Classic
-05/02/2016 14:15:15;Jacobs Classic
-05/03/2016 16:34:44;Jacobs Classic
-05/04/2016 09:10:40;Jacobs Classic
-05/04/2016 10:40:41;Jacobs Classic
-05/04/2016 12:40:01;Jacobs Classic
-05/09/2016 09:20:02;Jacobs Classic
-05/09/2016 13:29:05;Jacobs Classic
-05/11/2016 10:57:54;Jacobs Classic
-05/11/2016 14:26:44;Jacobs Classic
-05/12/2016 10:01:00;Jacobs Classic
-05/13/2016 10:02:22;Jacobs Classic
-05/17/2016 09:46:00;Jacobs Classic
-05/17/2016 13:34:31;Jacobs Classic
-05/18/2016 10:28:32;Jacobs Classic
-05/18/2016 14:10:43;Jacobs Classic
-05/18/2016 17:22:44;Jacobs Classic
-05/19/2016 10:31:55;Jacobs Classic
-05/19/2016 16:06:51;Jacobs Classic
-05/20/2016 09:31:42;Jacobs Classic
-05/20/2016 12:35:13;Jacobs Classic
-05/23/2016 10:09:21;San Fabio Ungesüsst
-05/25/2016 10:09:22;San Fabio Ungesüsst
-05/25/2016 13:01:33;San Fabio Ungesüsst
-05/26/2016 15:09:34;San Fabio Ungesüsst
-05/30/2016 13:38:35;Krüger Chai latte Ingwer-Zitronengras
-05/30/2016 14:42:20;Krüger Chai latte Ingwer-Zitronengras
-05/31/2016 12:40:21;Krüger Chai latte Ingwer-Zitronengras
-05/31/2016 14:24:44;San Fabio Ungesüsst
-06/01/2016 09:45:41;San Fabio Ungesüsst
-06/01/2016 14:36:37;Krüger Chai latte Ingwer-Zitronengras
-06/02/2016 10:13:28;Krüger Chai latte Ingwer-Zitronengras
-06/02/2016 14:28:00;San Fabio Ungesüsst
-06/03/2016 09:49:06;San Fabio Ungesüsst
-06/03/2016 13:24:02;Krüger Chai latte Ingwer-Zitronengras
-06/06/2016 09:58:21;Krüger Chai latte Ingwer-Zitronengras
-06/06/2016 12:12:00;San Fabio Ungesüsst
-06/08/2016 10:54:01;San Fabio Ungesüsst
-06/08/2016 16:59:11;Krüger Chai latte Ingwer-Zitronengras
-06/10/2016 09:24:05;San Fabio Ungesüsst
-06/10/2016 13:00:51;Jacobs Classic
-06/10/2016 14:35:32;Krüger Chai latte Ingwer-Zitronengras
-06/13/2016 10:12:22;Jacobs Classic
-06/13/2016 10:30:35;Jacobs Classic
-06/15/2016 09:23:09;Jacobs Classic
-06/15/2016 13:35:45;Jacobs Classic
-06/16/2016 12:21:30;Jacobs Classic
-06/17/2016 09:08:24;Jacobs Classic
-06/17/2016 13:31:08;Krüger Chai latte Ingwer-Zitronengras
-06/20/2016 09:57:59;Krüger Chai latte Honig
-06/20/2016 13:09:10;Krüger Chai latte Honig
-06/21/2016 15:53:50;Jacobs Classic
-06/21/2016 17:07:05;Krüger Chai latte Honig
-06/22/2016 09:40:32;Jacobs Classic
-06/22/2016 12:37:17;Krüger Chai latte Honig
-06/23/2016 10:54:26;Jacobs Classic
-06/23/2016 13:12:29;Krüger Chai latte Honig
-06/27/2016 09:35:40;Krüger Chai latte Honig
-06/27/2016 10:25:41;Krüger Chai latte Honig
-06/28/2016 17:04:59;Krüger Chai latte Honig
-06/29/2016 09:25:39;Jacobs Classic
-06/29/2016 13:35:32;Jacobs Classic
-06/30/2016 13:35:33;Krüger Chai latte Honig
-07/01/2016 09:23:25;Krüger Chai latte Classic India
-08/22/2016 10:22:55;Jacobs Classic
-08/22/2016 14:09:51;Krüger Chai latte Classic India
-08/23/2016 08:55:50;Jacobs Classic
-08/24/2016 16:46:39;Jacobs Classic
-08/25/2016 09:19:23;Jacobs Classic
-08/25/2016 10:48:28;Jacobs Classic
-08/25/2016 15:25:08;Jacobs Classic
-08/26/2016 08:53:09;Jacobs Classic
-08/26/2016 12:43:21;Jacobs Classic
-08/26/2016 15:33:54;Krüger Chai latte Classic India
-08/26/2016 17:55:22;Krüger Chai latte Classic India
-08/29/2016 09:01:21;Jacobs Classic
-08/29/2016 12:03:12;Krüger Chai latte Classic India
-08/31/2016 09:13:20;Jacobs Classic
-08/31/2016 12:38:58;Krüger Chai latte Classic India
-08/31/2016 16:23:11;Krüger Chai latte Classic India
-09/01/2016 08:50:22;Jacobs Classic
-09/01/2016 11:25:35;Krüger Chai latte Classic India 
-09/01/2016 17:38:24;Jacobs Classic
-09/02/2016 09:03:26;Jacobs Classic
-09/02/2016 12:25:43;Jacobs Classic
-09/05/2016 08:52:56;Jacobs Classic
-09/05/2016 12:24:11;Jacobs Classic
-09/05/2016 13:33:24;Jacobs Classic
-09/06/2016 08:58:21;Jacobs Classic
-09/06/2016 13:47:30;Jacobs Classic
-09/07/2016 08:55:23;Jacobs Classic
-09/07/2016 12:18:08;Jacobs Classic
-09/08/2016 08:56:58;Jacobs Classic
-09/08/2016 12:55:16;Jacobs Classic
-09/09/2016 09:05:43;Jacobs Classic
-09/09/2016 10:59:07;Jacobs Classic
-09/09/2016 13:39:55;Krüger Chai latte Classic India
-09/12/2016 10:39:20;Jacobs Classic
-09/13/2016 09:11:07;Jacobs Classic
-09/14/2016 09:17:08;Jacobs Classic
-09/14/2016 12:22:14;Jacobs Classic
-09/15/2016 09:14:54;Jacobs Classic
-09/15/2016 12:14:13;Jacobs Classic
-09/15/2016 14:53:44;Krüger Chai latte Honig
-09/16/2016 09:26:00;Jacobs Classic
-09/16/2016 12:21:42;Krüger Chai latte Classic India
-09/16/2016 17:22:28;Krüger Chai latte Classic India
-09/19/2016 09:30:54;Jacobs Classic
-09/19/2016 12:21:28;Jacobs Classic
-09/22/2016 09:21:02;Jacobs Classic
-09/22/2016 14:25:33;Jacobs Classic
-09/22/2016 17:07:14;Krüger Chai latte Classic India
-09/27/2016 09:21:33;Jacobs Classic
-09/27/2016 10:34:42;Jacobs Classic
-09/27/2016 13:45:12;Krüger Chai latte Classic India
-09/28/2016 09:11:44;Jacobs Classic
-09/28/2016 10:30:05;Jacobs Classic
-09/29/2016 09:20:04;Jacobs Classic
-09/30/2016 09:12:05;Jacobs Classic
-09/30/2016 09:12:06;Krüger Chai latte Classic India
-10/04/2016 12:40:08;Jacobs Classic
-10/04/2016 14:44:00;Jacobs Classic
-10/05/2016 09:20:34;Jacobs Classic
-10/05/2016 10:45:51;Krüger Chai latte Classic India
-10/05/2016 10:45:52;Krüger Chai latte Classic India
-10/05/2016 14:47:15;Krüger Chai latte Classic India
-10/06/2016 09:21:54;Jacobs Classic
-10/06/2016 10:39:44;Jacobs Classic
-10/06/2016 13:01:45;Krüger Chai latte Classic India
-10/07/2016 09:24:59;Jacobs Classic
-10/07/2016 10:19:33;Jacobs Classic
-10/07/2016 12:26:41;Jacobs Classic
-10/07/2016 16:43:42;Krüger Chai latte Classic India
-10/10/2016 09:15:55;Jacobs Classic
-10/10/2016 10:06:51;Jacobs Classic
-10/10/2016 13:42:32;Jacobs Classic
-10/11/2016 09:10:53;Jacobs Classic
-10/11/2016 10:17:56;Jacobs Classic
-10/11/2016 14:55:52;Krüger Chai latte Classic India
-10/12/2016 10:07:23;Jacobs Classic
-10/12/2016 12:42:51;Jacobs Classic
-10/13/2016 09:10:43;Jacobs Classic
-10/13/2016 10:20:52;Jacobs Classic
-10/14/2016 09:21:50;Jacobs Classic
-10/17/2016 08:58:35;Jacobs Classic
-10/18/2016 09:27:58;Jacobs Classic
-10/18/2016 12:05:43;Jacobs Classic
-10/18/2016 15:46:58;Krüger Chai latte Sweet India
-10/19/2016 10:11:16;Jacobs Classic
-10/20/2016 09:19:43;Jacobs Classic
-10/20/2016 10:25:24;Jacobs Classic
-10/24/2016 09:29:41;Jacobs Classic
-10/24/2016 10:41:17;Jacobs Classic
-10/24/2016 12:21:19;Jacobs Classic
-10/25/2016 09:03:44;Jacobs Classic
-10/25/2016 10:36:09;Jacobs Classic
-10/25/2016 14:52:59;Krüger Chai latte Sweet India
-10/26/2016 09:17:20;Jacobs Classic
-10/26/2016 09:58:03;Jacobs Classic
-10/27/2016 09:18:36;Jacobs Classic
-10/27/2016 16:05:50;Jacobs Classic
-10/28/2016 09:10:58;Jacobs Classic
-10/28/2016 15:58:12;Jacobs Classic
-11/01/2016 09:11:48;Jacobs Classic
-11/01/2016 11:03:13;Jacobs Classic
-11/01/2016 14:33:48;Krüger Chai latte Sweet India
-11/02/2016 09:11:27;Jacobs Classic
-11/02/2016 20:15:55;Jacobs Classic
-11/03/2016 09:30:28;Jacobs Classic
-11/03/2016 11:13:53;Jacobs Classic
-11/07/2016 09:17:31;Jacobs Classic
-11/07/2016 12:42:11;Jacobs Classic
-11/08/2016 12:32:52;Jacobs Classic
-11/08/2016 14:39:10;Jacobs Classic
-11/09/2016 09:18:38;Jacobs Classic
-11/10/2016 09:06:22;Jacobs Classic
-11/10/2016 10:25:21;Jacobs Classic
-11/10/2016 14:39:50;Jacobs Classic
-11/11/2016 09:48:22;Jacobs Classic
-11/11/2016 14:44:42;Krüger Chai latte Sweet India
+Date,Type
+03/21/2016 09:23:00,Jacobs Classic
+03/21/2016 12:32:00,Jacobs Classic
+03/23/2016 09:36:00,Jacobs Classic
+03/30/2016 08:50:00,Jacobs Classic
+03/30/2016 10:30:00,Jacobs Classic
+03/30/2016 13:20:01,Jacobs Classic
+03/30/2016 16:02:02,Jacobs Classic
+04/01/2016 09:02:00,Jacobs Classic
+04/01/2016 10:50:01,Jacobs Classic
+04/01/2016 12:40:00,Jacobs Classic
+04/01/2016 14:50:00,Jacobs Classic
+04/04/2016 09:18:01,Jacobs Classic
+04/04/2016 10:45:55,Jacobs Classic
+04/05/2016 14:48:00,Jacobs Classic
+04/06/2016 09:16:12,Jacobs Classic
+04/06/2016 10:14:30,Jacobs Classic
+04/06/2016 13:05:20,Jacobs Classic
+04/06/2016 15:48:33,Jacobs Classic
+04/07/2016 09:15:28,Jacobs Classic
+04/07/2016 10:28:54,Jacobs Classic
+04/07/2016 13:28:54,Jacobs Classic
+04/08/2016 08:38:06,Jacobs Classic
+04/08/2016 09:44:28,Jacobs Classic
+04/08/2016 16:30:11,Jacobs Classic
+04/11/2016 09:35:22,Jacobs Classic
+04/11/2016 15:59:00,Jacobs Classic
+04/13/2016 10:01:01,Jacobs Classic
+04/13/2016 13:02:55,Jacobs Classic
+04/14/2016 09:49:12,Jacobs Classic
+04/14/2016 14:08:28,Jacobs Classic
+04/14/2016 18:07:06,Jacobs Classic
+04/15/2016 09:15:10,Jacobs Classic
+04/15/2016 10:39:00,Jacobs Classic
+04/15/2016 17:15:00,Jacobs Classic
+04/18/2016 10:19:56,Jacobs Classic
+04/18/2016 13:09:52,Jacobs Classic
+04/20/2016 09:12:35,Jacobs Classic
+04/20/2016 12:41:36,Jacobs Classic
+04/21/2016 09:32:31,Jacobs Classic
+04/21/2016 12:35:12,Jacobs Classic
+04/22/2016 10:04:30,Jacobs Classic
+04/22/2016 11:11:22,Jacobs Classic
+04/25/2016 09:19:23,Jacobs Classic
+04/25/2016 12:45:36,Jacobs Classic
+04/27/2016 09:22:45,Jacobs Classic
+04/27/2016 11:12:20,Jacobs Classic
+04/27/2016 17:15:15,Jacobs Classic
+04/28/2016 09:45:56,Jacobs Classic
+04/28/2016 10:40:10,Jacobs Classic
+04/28/2016 15:16:15,Jacobs Classic
+04/29/2016 09:21:40,Jacobs Classic
+04/29/2016 10:02:38,Jacobs Classic
+05/02/2016 14:15:15,Jacobs Classic
+05/03/2016 16:34:44,Jacobs Classic
+05/04/2016 09:10:40,Jacobs Classic
+05/04/2016 10:40:41,Jacobs Classic
+05/04/2016 12:40:01,Jacobs Classic
+05/09/2016 09:20:02,Jacobs Classic
+05/09/2016 13:29:05,Jacobs Classic
+05/11/2016 10:57:54,Jacobs Classic
+05/11/2016 14:26:44,Jacobs Classic
+05/12/2016 10:01:00,Jacobs Classic
+05/13/2016 10:02:22,Jacobs Classic
+05/17/2016 09:46:00,Jacobs Classic
+05/17/2016 13:34:31,Jacobs Classic
+05/18/2016 10:28:32,Jacobs Classic
+05/18/2016 14:10:43,Jacobs Classic
+05/18/2016 17:22:44,Jacobs Classic
+05/19/2016 10:31:55,Jacobs Classic
+05/19/2016 16:06:51,Jacobs Classic
+05/20/2016 09:31:42,Jacobs Classic
+05/20/2016 12:35:13,Jacobs Classic
+05/23/2016 10:09:21,San Fabio Ungesüsst
+05/25/2016 10:09:22,San Fabio Ungesüsst
+05/25/2016 13:01:33,San Fabio Ungesüsst
+05/26/2016 15:09:34,San Fabio Ungesüsst
+05/30/2016 13:38:35,Krüger Chai latte Ingwer-Zitronengras
+05/30/2016 14:42:20,Krüger Chai latte Ingwer-Zitronengras
+05/31/2016 12:40:21,Krüger Chai latte Ingwer-Zitronengras
+05/31/2016 14:24:44,San Fabio Ungesüsst
+06/01/2016 09:45:41,San Fabio Ungesüsst
+06/01/2016 14:36:37,Krüger Chai latte Ingwer-Zitronengras
+06/02/2016 10:13:28,Krüger Chai latte Ingwer-Zitronengras
+06/02/2016 14:28:00,San Fabio Ungesüsst
+06/03/2016 09:49:06,San Fabio Ungesüsst
+06/03/2016 13:24:02,Krüger Chai latte Ingwer-Zitronengras
+06/06/2016 09:58:21,Krüger Chai latte Ingwer-Zitronengras
+06/06/2016 12:12:00,San Fabio Ungesüsst
+06/08/2016 10:54:01,San Fabio Ungesüsst
+06/08/2016 16:59:11,Krüger Chai latte Ingwer-Zitronengras
+06/10/2016 09:24:05,San Fabio Ungesüsst
+06/10/2016 13:00:51,Jacobs Classic
+06/10/2016 14:35:32,Krüger Chai latte Ingwer-Zitronengras
+06/13/2016 10:12:22,Jacobs Classic
+06/13/2016 10:30:35,Jacobs Classic
+06/15/2016 09:23:09,Jacobs Classic
+06/15/2016 13:35:45,Jacobs Classic
+06/16/2016 12:21:30,Jacobs Classic
+06/17/2016 09:08:24,Jacobs Classic
+06/17/2016 13:31:08,Krüger Chai latte Ingwer-Zitronengras
+06/20/2016 09:57:59,Krüger Chai latte Honig
+06/20/2016 13:09:10,Krüger Chai latte Honig
+06/21/2016 15:53:50,Jacobs Classic
+06/21/2016 17:07:05,Krüger Chai latte Honig
+06/22/2016 09:40:32,Jacobs Classic
+06/22/2016 12:37:17,Krüger Chai latte Honig
+06/23/2016 10:54:26,Jacobs Classic
+06/23/2016 13:12:29,Krüger Chai latte Honig
+06/27/2016 09:35:40,Krüger Chai latte Honig
+06/27/2016 10:25:41,Krüger Chai latte Honig
+06/28/2016 17:04:59,Krüger Chai latte Honig
+06/29/2016 09:25:39,Jacobs Classic
+06/29/2016 13:35:32,Jacobs Classic
+06/30/2016 13:35:33,Krüger Chai latte Honig
+07/01/2016 09:23:25,Krüger Chai latte Classic India
+08/22/2016 10:22:55,Jacobs Classic
+08/22/2016 14:09:51,Krüger Chai latte Classic India
+08/23/2016 08:55:50,Jacobs Classic
+08/24/2016 16:46:39,Jacobs Classic
+08/25/2016 09:19:23,Jacobs Classic
+08/25/2016 10:48:28,Jacobs Classic
+08/25/2016 15:25:08,Jacobs Classic
+08/26/2016 08:53:09,Jacobs Classic
+08/26/2016 12:43:21,Jacobs Classic
+08/26/2016 15:33:54,Krüger Chai latte Classic India
+08/26/2016 17:55:22,Krüger Chai latte Classic India
+08/29/2016 09:01:21,Jacobs Classic
+08/29/2016 12:03:12,Krüger Chai latte Classic India
+08/31/2016 09:13:20,Jacobs Classic
+08/31/2016 12:38:58,Krüger Chai latte Classic India
+08/31/2016 16:23:11,Krüger Chai latte Classic India
+09/01/2016 08:50:22,Jacobs Classic
+09/01/2016 11:25:35,Krüger Chai latte Classic India 
+09/01/2016 17:38:24,Jacobs Classic
+09/02/2016 09:03:26,Jacobs Classic
+09/02/2016 12:25:43,Jacobs Classic
+09/05/2016 08:52:56,Jacobs Classic
+09/05/2016 12:24:11,Jacobs Classic
+09/05/2016 13:33:24,Jacobs Classic
+09/06/2016 08:58:21,Jacobs Classic
+09/06/2016 13:47:30,Jacobs Classic
+09/07/2016 08:55:23,Jacobs Classic
+09/07/2016 12:18:08,Jacobs Classic
+09/08/2016 08:56:58,Jacobs Classic
+09/08/2016 12:55:16,Jacobs Classic
+09/09/2016 09:05:43,Jacobs Classic
+09/09/2016 10:59:07,Jacobs Classic
+09/09/2016 13:39:55,Krüger Chai latte Classic India
+09/12/2016 10:39:20,Jacobs Classic
+09/13/2016 09:11:07,Jacobs Classic
+09/14/2016 09:17:08,Jacobs Classic
+09/14/2016 12:22:14,Jacobs Classic
+09/15/2016 09:14:54,Jacobs Classic
+09/15/2016 12:14:13,Jacobs Classic
+09/15/2016 14:53:44,Krüger Chai latte Honig
+09/16/2016 09:26:00,Jacobs Classic
+09/16/2016 12:21:42,Krüger Chai latte Classic India
+09/16/2016 17:22:28,Krüger Chai latte Classic India
+09/19/2016 09:30:54,Jacobs Classic
+09/19/2016 12:21:28,Jacobs Classic
+09/22/2016 09:21:02,Jacobs Classic
+09/22/2016 14:25:33,Jacobs Classic
+09/22/2016 17:07:14,Krüger Chai latte Classic India
+09/27/2016 09:21:33,Jacobs Classic
+09/27/2016 10:34:42,Jacobs Classic
+09/27/2016 13:45:12,Krüger Chai latte Classic India
+09/28/2016 09:11:44,Jacobs Classic
+09/28/2016 10:30:05,Jacobs Classic
+09/29/2016 09:20:04,Jacobs Classic
+09/30/2016 09:12:05,Jacobs Classic
+09/30/2016 09:12:06,Krüger Chai latte Classic India
+10/04/2016 12:40:08,Jacobs Classic
+10/04/2016 14:44:00,Jacobs Classic
+10/05/2016 09:20:34,Jacobs Classic
+10/05/2016 10:45:51,Krüger Chai latte Classic India
+10/05/2016 10:45:52,Krüger Chai latte Classic India
+10/05/2016 14:47:15,Krüger Chai latte Classic India
+10/06/2016 09:21:54,Jacobs Classic
+10/06/2016 10:39:44,Jacobs Classic
+10/06/2016 13:01:45,Krüger Chai latte Classic India
+10/07/2016 09:24:59,Jacobs Classic
+10/07/2016 10:19:33,Jacobs Classic
+10/07/2016 12:26:41,Jacobs Classic
+10/07/2016 16:43:42,Krüger Chai latte Classic India
+10/10/2016 09:15:55,Jacobs Classic
+10/10/2016 10:06:51,Jacobs Classic
+10/10/2016 13:42:32,Jacobs Classic
+10/11/2016 09:10:53,Jacobs Classic
+10/11/2016 10:17:56,Jacobs Classic
+10/11/2016 14:55:52,Krüger Chai latte Classic India
+10/12/2016 10:07:23,Jacobs Classic
+10/12/2016 12:42:51,Jacobs Classic
+10/13/2016 09:10:43,Jacobs Classic
+10/13/2016 10:20:52,Jacobs Classic
+10/14/2016 09:21:50,Jacobs Classic
+10/17/2016 08:58:35,Jacobs Classic
+10/18/2016 09:27:58,Jacobs Classic
+10/18/2016 12:05:43,Jacobs Classic
+10/18/2016 15:46:58,Krüger Chai latte Sweet India
+10/19/2016 10:11:16,Jacobs Classic
+10/20/2016 09:19:43,Jacobs Classic
+10/20/2016 10:25:24,Jacobs Classic
+10/24/2016 09:29:41,Jacobs Classic
+10/24/2016 10:41:17,Jacobs Classic
+10/24/2016 12:21:19,Jacobs Classic
+10/25/2016 09:03:44,Jacobs Classic
+10/25/2016 10:36:09,Jacobs Classic
+10/25/2016 14:52:59,Krüger Chai latte Sweet India
+10/26/2016 09:17:20,Jacobs Classic
+10/26/2016 09:58:03,Jacobs Classic
+10/27/2016 09:18:36,Jacobs Classic
+10/27/2016 16:05:50,Jacobs Classic
+10/28/2016 09:10:58,Jacobs Classic
+10/28/2016 15:58:12,Jacobs Classic
+11/01/2016 09:11:48,Jacobs Classic
+11/01/2016 11:03:13,Jacobs Classic
+11/01/2016 14:33:48,Krüger Chai latte Sweet India
+11/02/2016 09:11:27,Jacobs Classic
+11/02/2016 20:15:55,Jacobs Classic
+11/03/2016 09:30:28,Jacobs Classic
+11/03/2016 11:13:53,Jacobs Classic
+11/07/2016 09:17:31,Jacobs Classic
+11/07/2016 12:42:11,Jacobs Classic
+11/08/2016 12:32:52,Jacobs Classic
+11/08/2016 14:39:10,Jacobs Classic
+11/09/2016 09:18:38,Jacobs Classic
+11/10/2016 09:06:22,Jacobs Classic
+11/10/2016 10:25:21,Jacobs Classic
+11/10/2016 14:39:50,Jacobs Classic
+11/11/2016 09:48:22,Jacobs Classic
+11/11/2016 14:44:42,Krüger Chai latte Sweet India
+11/15/2016 09:07:35,Jacobs Classic
+11/15/2016 10:21:59,Jacobs Classic
+11/15/2016 14:50:29,Jacobs Classic
+11/17/2016 09:11:08,Jacobs Classic
+11/17/2016 10:30:11,Jacobs Classic
+11/17/2016 16:46:11,Krüger Chai latte Sweet India
+11/18/2016 12:26:45,Jacobs Classic
+11/18/2016 15:16:24,Jacobs Classic
+11/21/2016 09:22:33,Jacobs Classic
+11/21/2016 10:47:25,Jacobs Classic
+11/22/2016 09:59:32,Jacobs Classic
+11/22/2016 16:34:39,Bellarom Latte Macchiato
+11/23/2016 09:05:02,Bellarom Latte Macchiato
+11/23/2016 12:16:46,Bellarom Latte Macchiato
+11/23/2016 16:24:19,Bellarom Latte Macchiato
+11/23/2016 18:32:43,Bellarom Latte Macchiato
+11/24/2016 09:13:32,Bellarom Latte Macchiato
+11/24/2016 10:23:17,Bellarom Latte Macchiato
+11/24/2016 14:35:46,Bellarom Latte Macchiato
+11/24/2016 17:50:31,Krüger Chai latte Sweet India
+11/25/2016 09:33:08,Bellarom Latte Macchiato
+11/28/2016 09:27:55,Bellarom Latte Macchiato
+11/28/2016 10:07:16,Bellarom Latte Macchiato
+11/29/2016 10:06:23,Bellarom Latte Macchiato
+11/29/2016 14:29:33,Krüger Chai latte Sweet India
+11/29/2016 16:55:32,Krüger Chai latte Sweet India
+11/30/2016 09:19:04,Bellarom Latte Macchiato
+11/30/2016 12:48:28,Bellarom Latte Macchiato
+12/01/2016 09:34:21,Bellarom Latte Macchiato
+12/01/2016 17:34:35,Bellarom Latte Macchiato
+12/02/2016 09:27:37,Bellarom Latte Macchiato
+12/05/2016 09:16:58,Bellarom Latte Macchiato
+12/07/2016 09:11:23,Bellarom Latte Macchiato
+12/08/2016 09:10:16,Bellarom Latte Macchiato
+12/08/2016 15:54:52,Bellarom Latte Macchiato
+01/03/2017 12:14:24,Tee Heidelbeere Vanille
+01/03/2017 14:09:25,Krüger Chai latte Sweet India
+01/04/2017 08:52:37,Bellarom Latte Macchiato
+01/06/2017 10:42:05,Krüger Chai latte Sweet India
+01/10/2017 09:31:02,Krüger Chai latte Classic India
+01/11/2017 09:55:11,Krüger Chai latte Classic India
+01/12/2017 08:54:23,Bellarom Latte Macchiato
+01/12/2017 14:58:46,Krüger Chai latte Classic India
+01/13/2017 15:18:46,Krüger Chai latte Classic India
+01/16/2017 09:24:56,Krüger Chai latte Classic India
+01/16/2017 15:09:34,Krüger Chai latte Sweet India
+01/17/2017 10:03:57,Krüger Chai latte Classic India
+01/19/2017 09:47:01,Krüger Chai latte Classic India
+01/20/2017 09:38:51,Bellarom Latte Macchiato
+01/24/2017 13:18:40,Bellarom Latte Macchiato
+01/25/2017 12:21:48,Tee Minze-Zitrone
+01/26/2017 08:59:42,Bellarom Latte Macchiato
+01/26/2017 10:39:43,Tee Minze-Zitrone
+01/26/2017 15:49:37,Krüger Chai latte Classic India
+01/27/2017 09:44:36,Tee Apfel
+01/30/2017 08:53:31,Bellarom Latte Macchiato
+01/30/2017 14:43:17,Tee Grüner Tee
+01/31/2017 09:37:39,Krüger Chai latte Classic India
+01/31/2017 12:15:05,Tee Apfel
+01/31/2017 15:31:12,Bellarom Latte Macchiato
+01/31/2017 17:20:55,Bellarom Latte Macchiato
+02/01/2017 09:25:35,Tee Minze-Zitrone
+02/02/2017 09:13:11,Bellarom Latte Macchiato
+02/02/2017 17:36:36,Bellarom Latte Macchiato
+02/02/2017 09:41:10,Bellarom Latte Macchiato
+02/07/2017 08:56:43,Tee Minze-Zitrone
+02/07/2017 12:47:34,Tee Minze-Zitrone
+02/07/2017 15:42:00,Bellarom Latte Macchiato
+02/08/2017 13:46:27,Tee Apfel
+02/09/2017 09:32:44,Tee Apfel
+02/09/2017 13:27:57,Tee Apfel
+02/09/2017 16:27:40,Bellarom Latte Macchiato
+02/10/2017 09:41:02,Bellarom Latte Macchiato
+02/10/2017 12:48:54,Tee Apfel
+02/13/2017 15:06:27,Bellarom Latte Macchiato
+02/14/2017 09:18:36,Bellarom Latte Macchiato
+02/14/2017 12:40:55,Tee Apfel
+02/14/2017 15:15:19,Bellarom Latte Macchiato
+02/14/2017 17:13:04,Krüger Chai latte Classic India
+02/15/2017 09:12:06,Bellarom Latte Macchiato
+02/15/2017 10:31:15,Tee Apfel
+02/16/2017 09:16:39,Bellarom Latte Macchiato
+02/16/2017 15:39:25,Bellarom Latte Macchiato
+02/17/2017 16:20:39,Bellarom Latte Macchiato
+02/21/2017 09:23:59,Bellarom Latte Macchiato
+02/21/2017 12:13:54,Krüger Chai latte Classic India
+02/22/2017 09:09:31,Maxima Cappucino Vanille
+02/22/2017 10:28:39,Maxima Cappucino Vanille
+02/22/2017 13:28:11,Tee Ostfriesen Schwarzer Tee
+02/23/2017 09:12:20,Maxima Cappucino Vanille
+02/23/2017 15:13:03,Maxima Cappucino Vanille
+02/23/2017 15:49:44,Maxima Cappucino Vanille
+02/23/2017 18:51:34,Krüger Chai latte Classic India
+02/23/2017 18:51:35,Krüger Chai latte Classic India
+02/24/2017 09:25:51,Maxima Cappucino Vanille
+02/24/2017 12:31:17,Maxima Cappucino Vanille
+02/24/2017 15:46:27,Krüger Chai latte Classic India
+02/27/2017 09:11:34,Maxima Cappucino Vanille
+02/27/2017 12:19:23,Krüger Chai latte Classic India
+02/28/2017 09:07:54,Maxima Cappucino Vanille
+02/28/2017 15:58:06,Bellarom Latte Macchiato
+03/01/2017 10:07:05,Jacobs Classic
+03/01/2017 13:04:55,Tee Ostfriesen Schwarzer Tee
+03/01/2017 15:17:26,Jacobs Classic
+03/01/2017 16:00:19,Jacobs Classic
+03/02/2017 09:14:43,Jacobs Classic
+03/02/2017 10:42:39,Jacobs Classic
+03/02/2017 16:20:14,Tee Ostfriesen Schwarzer Tee
+03/03/2017 09:32:25,Jacobs Classic
+03/03/2017 10:40:26,Automat Cappucino
+03/03/2017 14:23:27,Jacobs Classic
+03/03/2017 16:15:56,Tee Ostfriesen Schwarzer Tee
+03/06/2017 09:05:46,Jacobs Classic
+03/06/2017 10:35:16,Automat Cappucino
+03/06/2017 12:50:55,Jacobs Classic
+03/06/2017 15:58:19,Tee Green Tea
+03/07/2017 09:37:46,Jacobs Classic
+03/07/2017 12:56:40,Tee Green Tea
+03/07/2017 17:11:39,Jacobs Classic
+03/08/2017 09:16:19,Jacobs Classic
+03/08/2017 13:12:24,Tee Blutorange
+03/08/2017 15:21:16,Automat Cappucino
+03/08/2017 15:38:08,Jacobs Classic
+03/09/2017 09:15:22,Jacobs Classic
+03/09/2017 09:56:49,Jacobs Classic
+03/10/2017 09:14:55,Jacobs Classic
+03/10/2017 13:07:12,Jacobs Classic
+03/10/2017 18:32:44,Krüger Chai latte Classic India
+03/13/2017 09:23:14,Krüger Chai latte Classic India
+03/13/2017 12:37:55,Krüger Chai latte Classic India
+03/13/2017 16:54:36,Krüger Chai latte Classic India
+03/14/2017 09:50:42,Krüger Chai latte Classic India
+03/14/2017 10:15:10,Automat Cappucino
+03/14/2017 09:58:40,Krüger Chai latte Classic India
+03/17/2017 13:08:15,Krüger Chai latte Classic India
+03/20/2017 09:31:24,Jacobs Classic
+03/20/2017 10:39:50,Jacobs Classic
+03/21/2017 09:04:41,Jacobs Classic
+03/21/2017 13:41:36,Jacobs Classic
+03/22/2017 08:57:07,Jacobs Classic
+03/22/2017 10:06:54,Automat Cappucino
+03/22/2017 13:45:17,Jacobs Classic
+03/23/2017 08:56:17,Jacobs Classic
+03/24/2017 09:09:52,Jacobs Classic
+03/24/2017 10:03:27,Jacobs Classic
+03/24/2017 23:06:52,Jacobs Classic
+03/27/2017 09:37:59,Jacobs Classic
+03/27/2017 14:48:05,Tee Green Tea
+03/28/2017 09:14:11,Jacobs Classic
+03/28/2017 10:20:33,Automat Cappucino
+03/28/2017 12:07:11,Automat Cappucino
+03/29/2017 09:04:17,Jacobs Classic
+03/29/2017 13:23:17,Automat Cappucino
+04/03/2017 09:23:11,Jacobs Classic
+04/03/2017 10:28:34,Automat Cappucino
+04/04/2017 09:17:29,Maxima Cappucino Vanille
+04/04/2017 12:41:50,Automat Cappucino
+04/05/2017 09:10:11,Maxima Cappucino Vanille
+04/05/2017 10:54:28,Jacobs Classic
+04/05/2017 12:15:31,Jacobs Classic
+04/06/2017 09:43:50,Maxima Cappucino Vanille
+04/06/2017 12:39:05,Tee Minze-Zitrone
+04/06/2017 14:42:33,Tee Pfefferminze
+04/07/2017 13:27:56,Jacobs Classic
+04/07/2017 15:26:52,Krüger Chai latte Classic India
+04/10/2017 09:15:45,Maxima Cappucino Vanille
+04/10/2017 10:00:24,Automat Cappucino
+04/10/2017 14:47:17,Maxima Cappucino Vanille
+04/11/2017 09:20:17,Maxima Cappucino Vanille
+04/11/2017 12:31:44,Tee Green Tea
+04/11/2017 13:46:03,Tee Ingwer Zitrone
+04/12/2017 09:11:15,Maxima Cappucino Vanille
+04/12/2017 14:35:09,Jacobs Classic
+04/21/2017 15:55:18,Automat Cappucino
+04/21/2017 16:02:46,Tee Minze-Zitrone
+04/24/2017 09:17:22,Jacobs Classic
+04/24/2017 10:16:37,Automat Cappucino
+04/25/2017 09:03:31,Jacobs Classic
+04/25/2017 12:35:50,Automat Cappucino
+04/26/2017 09:22:49,Jacobs Classic
+04/26/2017 11:02:04,Jacobs Classic
+04/26/2017 13:27:13,Automat Cappucino
+04/27/2017 09:12:23,Jacobs Classic
+04/27/2017 09:55:07,Jacobs Classic
+04/27/2017 15:08:29,Automat Cappucino
+04/28/2017 12:32:14,Jacobs Classic
+04/28/2017 14:13:39,Tee Minze-Zitrone
+04/28/2017 15:50:48,Tee Ostfriesen Schwarzer Tee
+04/30/2017 10:32:55,Jacobs Classic
+05/02/2017 09:26:42,Jacobs Classic
+05/03/2017 09:20:30,Jacobs Classic
+05/03/2017 12:30:22,Maxima Cappucino Vanille
+05/03/2017 15:48:56,Tee Ostfriesen Schwarzer Tee
+05/04/2017 09:13:06,Maxima Cappucino Vanille
+05/04/2017 12:50:52,Tee Green Tea
+05/05/2017 12:19:00,Jacobs Classic
+05/05/2017 13:40:00,Automat Cappucino
+05/08/2017 09:21:55,Jacobs Classic
+05/08/2017 10:30:41,Automat Cappucino
+05/08/2017 12:47:10,Maxima Cappucino Vanille
+05/09/2017 10:10:48,Maxima Cappucino Vanille
+05/10/2017 09:14:31,Jacobs Classic
+05/10/2017 11:07:38,Automat Cappucino
+05/11/2017 09:08:52,Jacobs Classic
+05/11/2017 12:21:44,Automat Cappucino
+05/11/2017 15:00:03,Tee Ostfriesen Schwarzer Tee
+05/12/2017 14:26:25,Tee Minze-Zitrone
+05/15/2017 09:18:39,Maxima Cappucino Vanille
+05/15/2017 12:14:39,Automat Cappucino
+05/15/2017 14:50:53,Tee Green Tea
+05/16/2017 09:10:54,Maxima Cappucino Vanille
+05/16/2017 13:03:14,Jacobs Classic
+05/17/2017 09:13:55,Maxima Cappucino Vanille
+05/17/2017 09:52:36,Automat Cappucino
+05/17/2017 14:38:30,Tee Pfefferminze
+05/18/2017 09:17:30,Jacobs Classic
+05/18/2017 10:36:14,Jacobs Classic
+05/18/2017 13:42:36,Jacobs Classic
+05/22/2017 09:21:55,Jacobs Classic
+05/22/2017 12:46:08,Automat Cappucino
+05/23/2017 12:41:15,Jacobs Classic
+05/24/2017 09:17:45,Jacobs Classic
+05/24/2017 10:17:46,Automat Cappucino
+05/24/2017 13:09:47,Jacobs Classic
+05/30/2017 09:20:21,Jacobs Classic
+05/30/2017 12:30:47,Jacobs Classic
+05/30/2017 14:11:12,Tee Green Tea
+05/31/2017 09:18:15,Jacobs Classic
+05/31/2017 10:19:31,Automat Cappucino
+05/31/2017 15:01:31,Tee Ostfriesen Schwarzer Tee
+06/01/2017 09:35:52,Jacobs Classic
+06/01/2017 10:12:57,Jacobs Classic
+06/01/2017 16:02:50,Automat Cappucino
+06/02/2017 13:17:59,Jacobs Classic
+06/06/2017 09:08:41,Jacobs Classic
+06/06/2017 12:04:33,Automat Cappucino
+06/07/2017 08:54:29,Jacobs Classic
+06/07/2017 11:50:38,Automat Cappucino
+06/07/2017 13:38:43,Tee Pfefferminze
+06/08/2017 09:11:32,Jacobs Classic
+06/08/2017 10:20:52,Jacobs Classic
+06/12/2017 09:40:05,Jacobs Classic
+06/12/2017 10:37:52,Jacobs Classic
+06/12/2017 14:39:58,Jacobs Classic
+06/13/2017 09:17:12,Jacobs Classic
+06/13/2017 10:48:11,Krüger Eiskaffee
+06/13/2017 13:43:25,Krüger Eiskaffee
+06/14/2017 09:18:09,Jacobs Classic
+06/14/2017 10:26:50,Krüger Eiskaffee
+06/14/2017 12:57:20,Krüger Eiskaffee
+06/14/2017 14:57:16,Krüger Eiskaffee
+06/14/2017 16:21:42,Krüger Eiskaffee
+06/15/2017 09:16:43,Jacobs Classic
+06/16/2017 14:00:59,Jacobs Classic
+06/26/2017 09:50:20,Jacobs Classic
+06/26/2017 10:43:48,Jacobs Classic
+06/26/2017 13:26:05,Jacobs Classic
+06/27/2017 09:04:21,Jacobs Classic
+06/28/2017 09:12:07,Jacobs Classic
+06/28/2017 09:56:52,Automat Cappucino
+06/28/2017 14:52:43,Jacobs Classic
+06/29/2017 09:04:50,Bellarom Cappucino Caramello
+06/29/2017 12:44:32,Bellarom Cappucino Caramello
+06/29/2017 15:05:41,Bellarom Cappucino Caramello
+06/30/2017 12:44:29,Bellarom Cappucino Caramello
+07/03/2017 09:11:28,Bellarom Cappucino Caramello
+07/03/2017 12:36:19,Bellarom Cappucino Caramello
+07/04/2017 09:13:39,Bellarom Cappucino Caramello
+07/04/2017 11:13:28,Bellarom Cappucino Caramello
+07/04/2017 13:23:09,Bellarom Cappucino Caramello
+07/04/2017 16:02:58,Krüger Eiskaffee
+07/05/2017 15:26:50,Bellarom Cappucino Caramello
+07/06/2017 07:49:17,Bellarom Cappucino Caramello
+07/06/2017 08:59:34,Bellarom Cappucino Caramello
+07/06/2017 10:30:18,Krüger Eiskaffee
+07/06/2017 12:44:46,Bellarom Cappucino Caramello
+07/07/2017 13:26:35,Krüger Eiskaffee
+07/10/2017 09:14:26,Bellarom Cappucino Caramello
+07/10/2017 10:20:28,Bellarom Cappucino Caramello
+07/10/2017 12:36:27,Bellarom Cappucino Caramello
+07/11/2017 09:21:59,Bellarom Cappucino Caramello
+07/11/2017 12:43:11,Bellarom Cappucino Caramello
+07/12/2017 09:11:13,Bellarom Cappucino Caramello
+07/12/2017 10:16:08,Bellarom Cappucino Caramello
+07/12/2017 12:16:59,Krüger Eiskaffee
+07/12/2017 14:01:60,Krüger Eiskaffee
+07/13/2017 09:16:22,Jacobs Classic
+07/13/2017 10:02:44,Jacobs Classic
+07/13/2017 12:36:59,Jacobs Classic
+07/13/2017 14:56:40,Krüger Eiskaffee
+07/14/2017 09:08:13,Jacobs Classic
+07/14/2017 10:22:30,Jacobs Classic
+07/31/2017 14:08:31,Jacobs Classic
+08/01/2017 09:06:33,Jacobs Classic
+08/01/2017 12:57:16,Jacobs Classic
+08/02/2017 09:42:40,Jacobs Classic
+08/02/2017 14:41:52,Krüger Chai latte Classic India
+08/03/2017 10:46:05,Jacobs Classic
+08/03/2017 12:43:33,Jacobs Classic
+08/04/2017 09:41:59,Jacobs Classic
+08/07/2017 09:19:06,Jacobs Classic
+08/07/2017 09:28:43,Jacobs Classic
+08/07/2017 10:38:47,Krüger Eiskaffee
+08/07/2017 15:16:36,Krüger Chai latte Classic India
+08/11/2017 09:22:04,Jacobs Classic
+08/11/2017 10:33:02,Jacobs Classic
+08/11/2017 13:58:30,Krüger Eiskaffee
+08/11/2017 14:56:45,Krüger Eiskaffee
+08/14/2017 09:35:50,Krüger Chai latte Classic India
+08/14/2017 12:58:15,Tee Minze-Zitrone
+08/15/2017 12:28:39,Krüger Chai latte Classic India
+08/16/2017 09:16:55,Krüger Chai latte Classic India
+08/16/2017 13:44:21,Krüger Chai latte Classic India
+08/17/2017 09:06:31,Jacobs Classic
+08/17/2017 10:12:25,Jacobs Classic
+08/17/2017 16:37:24,Jacobs Classic
+08/18/2017 08:16:19,Jacobs Classic
+08/18/2017 12:38:18,Jacobs Classic
+08/18/2017 15:39:55,Krüger Chai latte Classic India
+08/21/2017 09:16:29,Jacobs Classic
+08/21/2017 10:05:56,Jacobs Classic
+08/21/2017 14:22:14,Jacobs Classic
+08/22/2017 10:45:57,Jacobs Classic
+08/22/2017 12:48:25,Jacobs Classic
+08/22/2017 14:25:14,Jacobs Classic
+08/23/2017 09:18:09,Jacobs Classic
+08/23/2017 10:19:21,Jacobs Classic
+08/23/2017 13:12:15,Jacobs Classic
+08/24/2017 09:21:31,Jacobs Classic
+08/24/2017 09:49:36,Jacobs Classic
+08/24/2017 14:05:51,Jacobs Classic
+08/24/2017 16:48:07,Krüger Eiskaffee
+08/25/2017 09:33:37,Jacobs Classic
+08/25/2017 10:12:45,Jacobs Classic
+08/25/2017 12:54:53,Jacobs Classic
+08/28/2017 08:58:46,Krüger Eiskaffee
+08/28/2017 10:54:34,Jacobs Classic
+08/29/2017 09:27:22,Jacobs Classic
+08/29/2017 13:03:20,Jacobs Classic
+08/30/2017 09:21:52,Jacobs Classic
+08/30/2017 10:54:45,Jacobs Classic
+08/31/2017 09:36:57,Jacobs Classic
+08/31/2017 13:48:42,Krüger Chai latte Classic India
+08/31/2017 14:28:55,Automat Cappucino
+09/01/2017 09:20:48,Jacobs Classic
+09/01/2017 11:45:09,Jacobs Classic
+09/01/2017 14:14:39,Krüger Chai latte Classic India
+09/04/2017 08:54:34,Jacobs Classic
+09/05/2017 09:59:06,Jacobs Classic
+09/05/2017 15:55:14,Jacobs Classic
+09/06/2017 08:55:58,Jacobs Classic
+09/06/2017 10:41:06,Jacobs Classic
+09/06/2017 13:52:31,Jacobs Classic
+09/07/2017 09:12:19,Jacobs Classic
+09/07/2017 10:09:06,Jacobs Classic
+09/07/2017 12:05:43,Jacobs Classic
+09/08/2017 09:17:30,Jacobs Classic
+09/08/2017 09:55:24,Jacobs Classic
+09/11/2017 09:27:10,Jacobs Classic
+09/12/2017 09:03:38,Jacobs Classic
+09/12/2017 10:12:59,Jacobs Classic
+09/12/2017 13:01:47,Tee Ingwer Zitrone
+09/13/2017 09:18:15,Jacobs Classic
+09/13/2017 09:32:52,Krüger Chai latte Classic India
+09/13/2017 13:03:29,Tee Pfefferminze
+09/14/2017 09:38:18,Tee Minze-Zitrone
+09/14/2017 10:38:55,Tee Ingwer Zitrone
+09/14/2017 12:43:10,Tee Ostfriesen Schwarzer Tee
+09/15/2017 09:19:06,Automat Kaffee
+09/15/2017 13:14:07,Automat Kaffee
+09/15/2017 15:24:48,Tee Ingwer Zitrone
+09/18/2017 09:12:50,Bellarom Cappucino Caramello
+09/18/2017 13:06:02,Bellarom Cappucino Caramello
+09/18/2017 14:54:13,Tee Ingwer Zitrone
+09/19/2017 09:09:59,Bellarom Cappucino Caramello
+09/19/2017 09:57:15,Bellarom Cappucino Caramello
+09/20/2017 09:26:12,Bellarom Cappucino Caramello
+09/20/2017 10:37:56,Bellarom Cappucino Caramello
+09/20/2017 12:20:02,Tee Ingwer Zitrone
+09/20/2017 14:02:59,Bellarom Cappucino Caramello
+09/21/2017 09:07:40,Bellarom Cappucino Caramello
+09/21/2017 10:50:10,Bellarom Cappucino Caramello
+09/22/2017 09:20:59,Bellarom Cappucino Caramello
+09/22/2017 12:24:09,Jacobs Classic
+09/25/2017 09:17:14,Jacobs Classic
+09/25/2017 13:25:04,Tee Ingwer Zitrone
+09/25/2017 14:12:59,Tee Ingwer Zitrone
+09/26/2017 08:54:31,Jacobs Classic
+09/26/2017 10:13:43,Jacobs Classic
+09/26/2017 16:35:20,Tee Ingwer Zitrone
+09/27/2017 10:18:42,Jacobs Classic
+09/27/2017 13:40:30,Jacobs Classic
+09/28/2017 09:18:43,Jacobs Classic
+09/28/2017 09:53:08,Jacobs Classic
+09/28/2017 13:17:03,Tee Ostfriesen Schwarzer Tee
+09/28/2017 16:13:31,Jacobs Classic
+09/28/2017 16:35:42,Jacobs Classic
+09/29/2017 08:54:07,Jacobs Classic
+09/29/2017 10:04:02,Jacobs Classic
+10/04/2017 09:12:09,Jacobs Classic
+10/04/2017 10:07:38,Jacobs Classic
+10/04/2017 12:07:25,Jacobs Classic
+10/04/2017 14:00:21,Jacobs Classic
+10/05/2017 09:19:29,Jacobs Classic
+10/05/2017 10:15:05,Tee Ingwer Zitrone
+10/05/2017 14:27:03,Automat Cappucino
+10/05/2017 16:02:07,Tee Ingwer Zitrone
+10/06/2017 09:20:39,Jacobs Classic
+10/06/2017 09:57:51,Jacobs Classic
+10/06/2017 12:29:30,Jacobs Classic
+10/09/2017 09:11:48,Jacobs Classic
+10/09/2017 09:39:47,Jacobs Classic
+10/09/2017 12:01:26,Tee Ingwer Zitrone
+10/09/2017 12:46:32,Tee Ingwer Zitrone
+10/09/2017 13:41:51,Tee Ingwer Zitrone
+10/10/2017 09:33:31,Jacobs Classic
+10/10/2017 10:55:14,Jacobs Classic
+10/10/2017 12:02:06,Tee Ingwer Zitrone
+10/10/2017 12:41:11,Tee Ingwer Zitrone
+10/10/2017 14:18:36,Tee Ingwer Zitrone
+10/11/2017 09:08:51,Jacobs Classic
+10/11/2017 09:38:32,Jacobs Classic
+10/11/2017 15:18:54,Tee Ingwer Zitrone
+10/12/2017 09:24:50,Bellarom Cappucino Caramello
+10/12/2017 10:14:19,Bellarom Cappucino Caramello
+10/12/2017 14:07:31,Bellarom Cappucino Caramello
+10/13/2017 09:23:13,Bellarom Cappucino Caramello
+10/16/2017 09:56:36,Bellarom Cappucino Caramello
+10/16/2017 10:12:22,Bellarom Cappucino Caramello
+10/16/2017 12:13:59,Bellarom Cappucino Caramello
+10/16/2017 15:03:13,Tee Ingwer Zitrone
+10/17/2017 09:10:32,Bellarom Cappucino Caramello
+10/17/2017 10:24:29,Bellarom Cappucino Caramello
+10/18/2017 09:18:15,Bellarom Cappucino Caramello
+10/18/2017 12:21:07,Bellarom Cappucino Caramello
+10/19/2017 09:21:22,Bellarom Cappucino Caramello
+10/19/2017 11:01:29,Bellarom Cappucino Caramello
+10/19/2017 14:51:52,Melitta Classico
+10/20/2017 09:21:51,Melitta Classico
+10/20/2017 12:40:35,Melitta Classico
+10/23/2017 09:25:15,Melitta Classico
+10/23/2017 13:53:15,Melitta Classico
+10/24/2017 11:46:23,Melitta Classico
+10/24/2017 12:48:46,Melitta Classico
+10/25/2017 13:43:14,Melitta Classico
+10/26/2017 10:15:53,Melitta Classico
+10/26/2017 12:41:51,Melitta Classico
+10/27/2017 09:19:31,Melitta Classico
+10/27/2017 10:29:36,Melitta Classico
+11/03/2017 10:29:37,Melitta Classico
+11/06/2017 10:56:19,Rondo Cappucino
+11/06/2017 13:35:37,Rondo Cappucino
+11/07/2017 09:15:05,Rondo Cappucino
+11/07/2017 13:00:33,Rondo Cappucino
+11/07/2017 16:32:10,Rondo Cappucino
+11/08/2017 14:02:39,Rondo Cappucino
+11/09/2017 09:13:41,Rondo Cappucino
+11/09/2017 12:38:15,Rondo Cappucino
+11/09/2017 09:13:10,Rondo Cappucino
+11/09/2017 10:05:25,Di Carlo Classico
+11/09/2017 13:09:39,Rondo Cappucino
+11/13/2017 10:36:15,Rondo Cappucino
+11/13/2017 13:55:56,Rondo Cappucino
+11/13/2017 15:20:59,Tee Ingwer Zitrone
+11/14/2017 08:50:43,Rondo Cappucino
+11/14/2017 09:57:03,Rondo Cappucino
+11/14/2017 13:16:32,Di Carlo Classico
+11/14/2017 16:21:09,Tee Ingwer Zitrone
+11/15/2017 09:02:49,Di Carlo Classico
+11/15/2017 10:01:59,Di Carlo Classico
+11/15/2017 14:11:33,Tee Ingwer Zitrone
+11/15/2017 16:29:41,Krüger White-Vanille
+11/16/2017 09:12:29,Krüger White-Vanille
+11/16/2017 10:23:54,Di Carlo Classico
+11/16/2017 14:00:55,Krüger White-Vanille
+11/16/2017 15:39:45,Krüger White-Vanille
+11/17/2017 09:23:30,Krüger White-Vanille
+11/17/2017 10:53:55,Krüger White-Vanille
+11/20/2017 09:32:59,Krüger White-Vanille
+11/20/2017 09:54:09,Krüger White-Vanille
+11/20/2017 13:12:12,Krüger White-Vanille
+11/20/2017 15:01:01,Krüger White-Vanille
+11/21/2017 09:33:19,Di Carlo Classico
+11/21/2017 13:25:05,Krüger Karamell-Krokant
+11/21/2017 15:00:00,Krüger Karamell-Krokant
+11/23/2017 09:28:52,Krüger Karamell-Krokant
+11/23/2017 12:05:44,Krüger Karamell-Krokant
+11/23/2017 13:33:36,Di Carlo Classico
+11/23/2017 17:34:38,Krüger Karamell-Krokant
+11/24/2017 09:06:42,Krüger Karamell-Krokant
+11/24/2017 10:42:06,Krüger Karamell-Krokant
+11/27/2017 09:07:59,Krüger Karamell-Krokant
+11/27/2017 11:06:12,Krüger Karamell-Krokant
+11/27/2017 13:01:10,Krüger Karamell-Krokant
+11/28/2017 09:19:55,Krüger Karamell-Krokant
+11/28/2017 09:56:32,Krüger Karamell-Krokant
+11/28/2017 12:42:18,Krüger Classico
+11/28/2017 15:46:07,Tee Ingwer Zitrone
+11/29/2017 09:25:54,Krüger Classico
+11/29/2017 10:56:07,Krüger Classico
+11/29/2017 13:22:34,Krüger Classico
+11/30/2017 12:26:06,Krüger Classico
+11/30/2017 16:00:25,Tee Ingwer Zitrone
+12/1/2017 09:26:18,Krüger Classico
+12/1/2017 10:11:53,Krüger Classico
+12/4/2017 09:19:50,Krüger Classico
+12/4/2017 10:58:28,Krüger Classico
+12/4/2017 13:15:08,Tee Ingwer Zitrone
+12/4/2017 14:15:05,Tee Ingwer Zitrone
+12/5/2017 09:38:31,Jacobs Classic
+12/5/2017 10:22:15,Krüger Classico
+12/5/2017 13:48:09,Krüger Classico
+12/6/2017 15:10:15,Jacobs Classic
+12/7/2017 09:03:33,Jacobs Classic
+12/7/2017 09:48:09,Jacobs Classic
+12/7/2017 12:20:09,Jacobs Classic
+12/7/2017 15:40:32,Jacobs Classic
+12/8/2017 09:11:27,Jacobs Classic
+12/8/2017 12:41:45,Jacobs Classic
+12/8/2017 16:10:51,Jacobs Classic
+12/11/2017 09:20:09,Jacobs Classic
+12/11/2017 09:47:17,Jacobs Classic
+12/11/2017 13:37:19,Jacobs Classic
+12/12/2017 10:59:02,Jacobs Classic
+12/12/2017 12:51:41,Krüger Karamell-Krokant
+12/13/2017 09:07:41,Krüger Karamell-Krokant
+12/13/2017 10:45:07,Krüger Karamell-Krokant
+12/13/2017 12:27:19,Krüger Karamell-Krokant
+12/14/2017 09:19:28,Krüger Karamell-Krokant
+12/14/2017 12:51:29,Krüger Karamell-Krokant
+12/14/2017 15:46:47,Krüger Karamell-Krokant
+12/15/2017 11:25:43,Krüger Karamell-Krokant
+12/19/2017 09:16:26,Krüger Karamell-Krokant
+12/19/2017 09:37:24,Krüger Karamell-Krokant
+12/19/2017 12:34:28,Krüger Karamell-Krokant
+12/19/2017 16:27:45,Jacobs Classic
+12/21/2017 09:37:12,Jacobs Classic
+12/21/2017 13:00:15,Krüger Karamell-Krokant
+12/21/2017 16:03:29,Krüger Karamell-Krokant
+12/22/2017 09:20:46,Jacobs Classic
+12/22/2017 09:59:04,Jacobs Classic
+12/22/2017 12:55:44,Jacobs Classic
+01/02/2018 09:57:25,Jacobs Classic
+01/02/2018 10:39:16,Jacobs Classic
+01/02/2018 12:28:28,Jacobs Classic
+01/02/2018 14:13:21,Tee Ingwer Zitrone
+01/03/2018 09:11:26,Jacobs Classic
+01/03/2018 10:05:14,Jacobs Classic
+01/03/2018 12:56:12,Jacobs Classic
+01/04/2018 09:04:44,Jacobs Classic
+01/04/2018 10:22:44,Jacobs Classic
+01/04/2018 13:52:45,Jacobs Classic
+01/05/2018 12:45:19,Automat Cappucino
+01/08/2018 09:21:18,Automat Cappucino
+01/08/2018 14:26:33,Krüger Karamell-Krokant
+01/09/2018 08:58:28,Krüger Karamell-Krokant
+01/09/2018 10:07:39,Krüger Karamell-Krokant
+01/09/2018 14:48:21,Krüger Karamell-Krokant
+01/10/2018 08:57:57,Krüger Karamell-Krokant
+01/10/2018 11:04:23,Krüger Karamell-Krokant
+01/11/2018 09:25:45,Krüger Karamell-Krokant
+01/11/2018 10:24:58,Krüger Karamell-Krokant
+01/11/2018 13:11:59,Krüger Karamell-Krokant
+01/12/2018 09:17:59,Jacobs Gold
+01/12/2018 10:40:37,Krüger Karamell-Krokant
+01/12/2018 13:14:13,Krüger Karamell-Krokant
+01/15/2018 09:13:15,Krüger Karamell-Krokant
+01/15/2018 12:32:09,Krüger Karamell-Krokant
+01/15/2018 14:41:36,Krüger Karamell-Krokant
+01/16/2018 09:16:17,Krüger Karamell-Krokant
+01/16/2018 10:19:59,Krüger Karamell-Krokant
+01/16/2018 12:34:37,Krüger Karamell-Krokant
+01/17/2018 09:11:02,Krüger Karamell-Krokant
+01/17/2018 09:45:13,Krüger Karamell-Krokant
+01/17/2018 12:36:59,Krüger Karamell-Krokant
+01/17/2018 15:50:20,Krüger Karamell-Krokant
+01/18/2018 09:22:33,Krüger Karamell-Krokant
+01/18/2018 09:50:24,Krüger Karamell-Krokant
+01/19/2018 08:46:58,Krüger Karamell-Krokant
+01/19/2018 10:53:58,Krüger Karamell-Krokant
+01/22/2018 13:21:30,Krüger Karamell-Krokant
+01/22/2018 14:42:31,Krüger Karamell-Krokant
+01/22/2018 17:28:59,Krüger Karamell-Krokant
+01/23/2018 08:44:09,Krüger Karamell-Krokant
+01/23/2018 12:27:05,Krüger Karamell-Krokant
+01/23/2018 13:45:18,Krüger Karamell-Krokant
+01/23/2018 14:41:16,Tee Ingwer Zitrone
+01/24/2018 09:01:35,Krüger Karamell-Krokant
+01/24/2018 09:43:15,Krüger Karamell-Krokant
+01/25/2018 09:20:46,Krüger Karamell-Krokant
+01/25/2018 10:04:47,Krüger Karamell-Krokant
+01/25/2018 10:33:18,Krüger Karamell-Krokant
+01/25/2018 12:11:05,Krüger Karamell-Krokant
+01/25/2018 15:47:27,Krüger Karamell-Krokant
+01/26/2018 10:01:38,Krüger Karamell-Krokant
+01/26/2018 10:43:54,Krüger Karamell-Krokant
+01/29/2018 09:22:51,Jacobs Classic
+01/29/2018 10:26:20,Jacobs Classic
+01/29/2018 12:15:38,Jacobs Classic
+01/29/2018 14:49:58,Jacobs Classic
+01/29/2018 16:56:54,Tee Ingwer Zitrone
+01/29/2018 16:56:55,Tee Ingwer Zitrone
+01/30/2018 08:34:05,Jacobs Classic
+01/30/2018 08:49:56,Jacobs Classic
+01/30/2018 11:13:02,Jacobs Classic
+01/30/2018 13:34:35,Jacobs Classic
+01/30/2018 15:14:23,Jacobs Classic
+01/31/2018 13:20:43,Jacobs Classic
+01/31/2018 14:30:11,Jacobs Classic
+02/01/2018 10:47:58,Jacobs Classic
+02/01/2018 12:09:07,Jacobs Classic
+02/02/2018 08:17:48,Jacobs Classic
+02/02/2018 09:43:51,Jacobs Classic
+02/02/2018 12:31:03,Tee Ingwer Zitrone
+02/05/2018 09:00:00,Jacobs Classic
+02/05/2018 09:30:23,Jacobs Classic
+02/08/2018 09:32:12,Jacobs Classic
+02/08/2018 10:38:22,Jacobs Classic
+02/09/2018 13:30:41,Jacobs Classic
+02/09/2018 15:41:46,Jacobs Classic
+02/12/2018 08:53:59,Jacobs Classic
+02/12/2018 09:20:25,Jacobs Classic
+02/12/2018 13:42:28,Jacobs Classic
+02/13/2018 09:29:57,Jacobs Classic
+02/13/2018 12:46:49,Jacobs Classic
+02/13/2018 13:55:55,Jacobs Classic
+02/14/2018 09:27:47,Jacobs Classic
+02/14/2018 12:55:52,Jacobs Classic
+02/14/2018 14:27:49,Tee Ingwer Zitrone
+02/15/2018 09:27:25,Jacobs Classic
+02/15/2018 10:04:45,Jacobs Classic
+02/15/2018 12:59:36,Jacobs Classic
+02/16/2018 10:06:07,Jacobs Classic
+02/16/2018 10:41:33,Jacobs Classic
+02/16/2018 12:27:27,Jacobs Classic
+02/19/2018 09:35:29,Jacobs Classic
+02/19/2018 10:32:57,Jacobs Classic
+02/19/2018 12:32:51,Tee Ingwer Zitrone
+02/20/2018 09:15:35,Jacobs Classic
+02/20/2018 10:04:55,Jacobs Classic
+02/20/2018 13:25:28,Jacobs Classic
+02/20/2018 15:00:00,Jacobs Classic
+02/20/2018 17:29:23,Tee Ingwer Zitrone
+02/21/2018 09:23:18,Jacobs Classic
+02/21/2018 10:12:31,Jacobs Classic
+02/21/2018 10:43:07,Jacobs Classic
+02/21/2018 13:51:50,Jacobs Classic
+02/21/2018 15:29:26,Tee Ingwer Zitrone
+02/22/2018 09:26:05,Jacobs Classic
+02/22/2018 12:32:57,Krüger Karamell-Krokant
+02/22/2018 13:15:18,Krüger Karamell-Krokant
+02/22/2018 15:50:09,Krüger Karamell-Krokant
+02/23/2018 09:21:05,Krüger Karamell-Krokant
+02/23/2018 09:44:17,Krüger Karamell-Krokant
+02/23/2018 12:14:52,Krüger Karamell-Krokant
+02/26/2018 09:25:15,Krüger Karamell-Krokant
+02/26/2018 10:20:09,Krüger Karamell-Krokant
+02/26/2018 14:28:46,Tee Ingwer Zitrone
+02/27/2018 09:07:36,Krüger Karamell-Krokant
+02/27/2018 10:06:59,Krüger Karamell-Krokant
+02/27/2018 13:15:27,Krüger Karamell-Krokant
+02/27/2018 16:47:10,Tee Ingwer Zitrone
+02/28/2018 09:18:23,Krüger Karamell-Krokant
+02/28/2018 12:20:59,Krüger Karamell-Krokant
+02/28/2018 14:28:44,Tee Ingwer Zitrone
+03/01/2018 09:34:19,Krüger Karamell-Krokant
+03/01/2018 15:00:00,Automat Cappucino
+03/02/2018 09:07:58,Bellarom Latte Macchiato
+03/02/2018 10:51:59,Bellarom Latte Macchiato
+03/05/2018 09:20:41,Bellarom Latte Macchiato
+03/05/2018 10:13:21,Bellarom Latte Macchiato
+03/05/2018 14:05:09,Bellarom Latte Macchiato
+03/06/2018 09:14:50,Bellarom Latte Macchiato
+03/06/2018 09:49:55,Bellarom Latte Macchiato
+03/06/2018 12:18:30,Bellarom Latte Macchiato
+03/07/2018 09:22:36,Bellarom Latte Macchiato
+03/07/2018 10:15:13,Bellarom Latte Macchiato
+03/07/2018 12:19:35,Bellarom Latte Macchiato
+03/08/2018 09:32:31,Bellarom Latte Macchiato
+03/08/2018 10:41:42,Bellarom Latte Macchiato
+03/08/2018 12:57:13,Bellarom Latte Macchiato
+03/09/2018 09:34:54,Bellarom Latte Macchiato
+03/09/2018 10:17:59,Bellarom Latte Macchiato
+03/09/2018 12:39:18,Tee Ingwer Zitrone
+03/12/2018 09:36:45,Bellarom Latte Macchiato
+03/12/2018 10:23:57,Bellarom Latte Macchiato
+03/12/2018 13:23:58,Tee Ingwer Zitrone
+03/12/2018 14:24:14,Tee Ingwer Zitrone
+03/12/2018 15:26:57,Tee Ingwer Zitrone
+03/13/2018 09:40:45,Magico Cappucino Weniger Suess
+03/13/2018 10:18:13,Magico Cappucino Weniger Suess
+03/13/2018 12:31:42,Bellarom Latte Macchiato
+03/14/2018 09:12:51,Magico Cappucino Weniger Suess
+03/14/2018 11:23:25,Tee Ingwer Zitrone
+03/14/2018 13:00:43,Tee Ingwer Zitrone
+03/14/2018 14:18:29,Magico Cappucino Weniger Suess
+03/15/2018 09:48:06,Cafét Arrabiata
+03/15/2018 12:25:07,Jacobs Krönung
+03/16/2018 09:22:11,Jacobs Krönung
+03/16/2018 12:34:09,Jacobs Krönung
+03/19/2018 09:30:18,Jacobs Krönung
+03/20/2018 12:59:56,Jacobs Krönung
+04/09/2018 09:30:24,Jacobs Krönung
+04/10/2018 08:59:58,Jacobs Krönung
+04/10/2018 12:39:07,Jacobs Krönung
+04/11/2018 08:16:16,Krüger Eiskaffee
+04/11/2018 09:40:15,Jacobs Krönung
+04/13/2018 10:08:30,Jacobs Krönung
+05/02/2018 10:30:46,Jacobs Krönung
+05/03/2018 09:23:13,Jacobs Krönung
+05/14/2018 09:10:05,Jacobs Krönung
+05/15/2018 10:26:42,Melitta Kaffee
+05/16/2018 09:21:06,Melitta Kaffee
+05/16/2018 13:55:33,Melitta Kaffee
+05/17/2018 10:36:20,Melitta Kaffee
+05/18/2018 10:36:32,Melitta Kaffee
+05/23/2018 09:14:43,Melitta Kaffee
+05/23/2018 13:43:11,Melitta Kaffee
+05/24/2018 09:46:13,Melitta Kaffee
+05/28/2018 09:48:23,Magico Cappucino Weniger Suess
+05/28/2018 10:38:57,Melitta Kaffee
+05/29/2018 10:22:38,Melitta Kaffee
+05/30/2018 09:53:14,Melitta Kaffee
+05/31/2018 09:42:37,Melitta Kaffee
+06/01/2018 12:21:32,Tee Ingwer Zitrone
+06/04/2018 10:00:33,Melitta Kaffee
+06/04/2018 20:00:23,Melitta Kaffee
+06/04/2018 20:00:30,Melitta Kaffee
+06/05/2018 12:21:44,Tee Ostfriesen Schwarzer Tee
+06/06/2018 13:47:25,Krüger Eiskaffee
+06/08/2018 12:14:45,Krüger Eiskaffee
+06/11/2018 12:45:21,Rondo Kaffee
+06/12/2018 08:54:54,Rondo Kaffee
+06/13/2018 09:45:32,Rondo Kaffee
+06/14/2018 09:33:15,Rondo Kaffee
+06/15/2018 09:22:31,Rondo Kaffee
+06/18/2018 18:07:34,Rondo Kaffee
+06/19/2018 09:30:21,Rondo Kaffee
+06/20/2018 12:27:35,Rondo Kaffee
+06/20/2018 16:54:10,Krüger Eiskaffee
+06/21/2018 12:24:21,Rondo Kaffee
+06/22/2018 10:01:29,Rondo Kaffee
+06/25/2018 09:32:30,Rondo Kaffee
+06/28/2018 10:30:21,Rondo Kaffee
+06/29/2018 09:25:20,Rondo Kaffee
+07/02/2018 09:24:43,Rondo Kaffee
+07/03/2018 09:18:16,Rondo Kaffee
+07/05/2018 12:15:43,Immergut Eiscafe
+07/05/2018 12:17:44,Immergut Eiscafe
+07/05/2018 12:20:45,Immergut Eiscafe
+07/05/2018 13:46:46,Immergut Eiscafe
+07/10/2018 09:25:57,Rondo Kaffee
+07/13/2018 10:52:34,Rondo Kaffee
+07/16/2018 09:22:21,Rondo Kaffee
+07/17/2018 09:30:22,Rondo Kaffee
+07/17/2018 12:03:07,Rondo Kaffee
+08/27/2018 09:15:02,Rondo Kaffee
+08/28/2018 10:30:58,Rondo Kaffee
+08/29/2018 09:36:36,Rondo Kaffee
+08/30/2018 12:41:59,Rondo Kaffee
+08/31/2018 09:16:21,Rondo Kaffee
+09/03/2018 09:22:03,Rondo Kaffee
+09/05/2018 09:29:59,Krüger Eiskaffee
+09/05/2018 12:37:39,Eduscho Gala Nr.1 Kaffee
+09/06/2018 09:05:22,Eduscho Gala Nr.1 Kaffee
+09/06/2018 15:08:12,Krüger Eiskaffee
+09/07/2018 09:26:02,Eduscho Gala Nr.1 Kaffee
+09/10/2018 09:08:11,Eduscho Gala Nr.1 Kaffee
+09/10/2018 12:32:42,Eduscho Gala Nr.1 Kaffee
+09/11/2018 09:23:04,Eduscho Gala Nr.1 Kaffee
+09/11/2018 14:23:50,Eduscho Gala Nr.1 Kaffee
+09/12/2018 09:24:59,Eduscho Gala Nr.1 Kaffee
+09/13/2018 09:45:03,Eduscho Gala Nr.1 Kaffee
+09/17/2018 12:20:21,Eduscho Gala Nr.1 Kaffee
+09/18/2018 09:53:31,Eduscho Gala Nr.1 Kaffee
+09/24/2018 09:21:11,Eduscho Gala Nr.1 Kaffee
+09/25/2018 09:32:42,Eduscho Gala Nr.1 Kaffee
+09/25/2018 14:27:14,Krüger Eiskaffee
+09/27/2018 12:37:15,Eduscho Gala Nr.1 Kaffee
+09/28/2018 10:18:54,Eduscho Gala Nr.1 Kaffee
+10/02/2018 09:13:17,Eduscho Gala Nr.1 Kaffee
+10/04/2018 12:55:06,Eduscho Gala Nr.1 Kaffee
+10/05/2018 09:35:07,Eduscho Gala Nr.1 Kaffee
+10/08/2018 12:45:17,Eduscho Gala Nr.1 Kaffee
+10/09/2018 09:36:05,Eduscho Gala Nr.1 Kaffee
+10/09/2018 12:38:42,Eduscho Gala Nr.1 Kaffee
+10/10/2018 09:12:52,Eduscho Gala Nr.1 Kaffee
+10/10/2018 15:37:11,Krüger Eiskaffee
+10/12/2018 08:54:55,Krüger Eiskaffee
+10/15/2018 09:50:40,Eduscho Gala Nr.1 Kaffee
+10/16/2018 09:28:38,Eduscho Gala Nr.1 Kaffee
+10/17/2018 07:30:18,Eduscho Gala Nr.1 Kaffee
+10/18/2018 08:42:16,Eduscho Gala Nr.1 Kaffee
+10/19/2018 09:35:04,Eduscho Gala Nr.1 Kaffee
+10/22/2018 10:19:59,Eduscho Gala Nr.1 Kaffee
+10/23/2018 09:20:51,Eduscho Gala Nr.1 Kaffee
+10/23/2018 11:55:20,Eduscho Gala Nr.1 Kaffee
+10/23/2018 17:17:49,Krüger Chai latte Kokos-Mandel
+10/24/2018 09:25:32,Krüger Chai latte Kokos-Mandel
+10/25/2018 12:36:54,Krüger Chai latte Kokos-Mandel
+10/26/2018 09:20:16,Krüger Chai latte Kokos-Mandel
+10/26/2018 11:09:04,Tee Ingwer Zitrone
+10/29/2018 09:24:18,Eduscho Gala Nr.1 Kaffee
+10/30/2018 08:52:21,Eduscho Gala Nr.1 Kaffee
+11/06/2018 09:37:07,Eduscho Gala Nr.1 Kaffee
+11/07/2018 09:17:44,Eduscho Gala Nr.1 Kaffee
+11/09/2018 09:37:51,Krüger Chai latte Kokos-Mandel
+11/09/2018 13:25:47,Tee Ostfriesen Schwarzer Tee
+11/12/2018 09:50:49,Krüger Chai latte Kokos-Mandel
+11/13/2018 08:10:12,Eduscho Gala Nr.1 Kaffee
+11/13/2018 14:16:35,Eduscho Gala Nr.1 Kaffee
+11/14/2018 09:10:36,Eduscho Gala Nr.1 Kaffee
+11/15/2018 09:47:17,Eduscho Gala Nr.1 Kaffee
+11/16/2018 10:03:45,Krüger Chai latte Kokos-Mandel
+11/19/2018 10:11:06,Krüger Chai latte Kokos-Mandel
+11/20/2018 09:49:35,Elbflorenz Gräfin Kosel Kaffee
+11/22/2018 09:28:44,Elbflorenz Gräfin Kosel Kaffee
+11/23/2018 09:46:07,Elbflorenz Gräfin Kosel Kaffee
+11/27/2018 09:17:58,Elbflorenz Gräfin Kosel Kaffee
+11/27/2018 12:20:34,Elbflorenz Gräfin Kosel Kaffee
+11/28/2018 09:36:48,Krüger Chai latte Kokos-Mandel
+11/28/2018 12:56:50,Krüger Chai latte Kokos-Mandel
+11/28/2018 17:17:29,Tee Ostfriesen Schwarzer Tee
+11/29/2018 15:21:59,Di Carlo Classico
+11/29/2018 16:27:29,Di Carlo Classico
+11/30/2018 09:35:20,Di Carlo Classico
+11/30/2018 10:48:04,Di Carlo Classico
+11/30/2018 12:28:22,Di Carlo Classico
+11/30/2018 14:34:40,Di Carlo Classico
+12/03/2018 09:34:39,Di Carlo Classico
+12/04/2018 13:33:43,Di Carlo Classico
+12/04/2018 17:57:10,Di Carlo Classico
+12/05/2018 07:46:26,Di Carlo Classico
+12/05/2018 09:30:31,Di Carlo Classico
+12/05/2018 12:43:00,Rondo Cappucino
+12/05/2018 16:06:58,Rondo Cappucino
+12/06/2018 09:49:08,Rondo Cappucino
+12/06/2018 12:41:07,Rondo Cappucino
+12/06/2018 16:19:27,Rondo Cappucino
+12/07/2018 11:08:46,Rondo Cappucino
+12/07/2018 13:46:22,Rondo Cappucino
+12/10/2018 09:46:31,Tee Ingwer Zitrone
+12/10/2018 10:57:36,Tee Ingwer Zitrone
+12/11/2018 10:03:54,Tee Ingwer Zitrone
+12/11/2018 10:56:54,Rondo Cappucino
+12/11/2018 12:31:59,Elbflorenz Gräfin Kosel Kaffee
+12/11/2018 15:11:03,Rondo Cappucino
+12/12/2018 10:00:59,Rondo Cappucino
+12/12/2018 11:02:56,Rondo Cappucino
+12/12/2018 13:05:06,Tee Apfel Minze
+12/12/2018 15:07:17,Rondo Cappucino
+12/13/2018 12:28:24,Rondo Cappucino
+12/14/2018 09:29:04,Rondo Cappucino
+12/17/2018 08:51:22,Rondo Cappucino
+12/17/2018 09:43:39,Rondo Cappucino
+12/18/2018 08:28:45,Rondo Cappucino
+01/08/2019 09:25:22,Rondo Cappucino
+01/08/2019 13:05:31,Rondo Cappucino
+01/08/2019 15:41:45,Tee Apfel Minze
+01/08/2019 17:18:50,Tee Apfel Minze
+01/09/2019 09:47:56,Tee Apfel Minze
+01/09/2019 12:44:59,Rondo Cappucino
+01/10/2019 10:18:48,Rondo Cappucino
+01/10/2019 11:11:03,Rondo Cappucino
+01/10/2019 15:20:42,Rondo Cappucino
+01/11/2019 09:55:46,Rondo Cappucino
+01/11/2019 14:06:29,Rondo Cappucino
